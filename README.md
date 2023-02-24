@@ -1,8 +1,12 @@
 ---
 description: There may be nothing here.
+cover: .gitbook/assets/dream_TradingCard (1).jpg
+coverY: 346
 ---
 
 # 👋 Welcome to OptimismSwap
+
+
 
 {% hint style="info" %}
 T**ip:** we currently have no plans to issue any tokens. Please note that any tokens issued in the market are not related to us.
